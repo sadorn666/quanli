@@ -1,0 +1,11 @@
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.csprojAssemblyReference.cache
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.Properties.Resources.resources
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.csproj.GenerateResource.cache
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.login.resources
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\bin\Debug\quanlinhanvien.exe.config
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\bin\Debug\quanlinhanvien.exe
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\bin\Debug\quanlinhanvien.pdb
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.exe
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.pdb
+c:\users\asus\source\repos\quanlinhanvien\quanlinhanvien\obj\Debug\quanlinhanvien.dashboard.resources
